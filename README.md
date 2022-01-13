@@ -37,6 +37,6 @@ Random Forest Regression
 DecisionTreeRegressor
 ![dtr](https://user-images.githubusercontent.com/63343297/149387502-cc7f3ec5-9ea5-48d9-a360-1c8de6e8d6bc.PNG)
 
-Ensemble(stacking Random Forest Regression,Linear Regression, K-Nearest Neighbor)
+Ensemble(Stacking Random Forest Regression,Linear Regression, K-Nearest Neighbor)
 ![ensemble](https://user-images.githubusercontent.com/63343297/149387647-1c64182e-acef-494c-8b2a-082480c27517.PNG)
 
