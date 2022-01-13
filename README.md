@@ -10,6 +10,17 @@ The main focus of the project is to Predict Admission chances of a student based
 ## Web page preview:
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/63343297/149386850-6efe4835-bf89-497f-9473-8616570604b7.gif)
 
+## Libraries used are: 
+1)Pandas
+
+2)Numpy
+
+3)Sklearn
+
+4)Pywebio(For Webpage implementation)
+
+5)Pickle
+
 ## Various algorithm output: 
 Linear Regression 
 ![lr](https://user-images.githubusercontent.com/63343297/149387150-90eb530e-ddfb-4bcd-a3ce-5c4d546c8879.PNG)
